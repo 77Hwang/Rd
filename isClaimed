@@ -1,10 +1,12 @@
 {
- claims = "unclaimed1,,
+ claims = "
+unclaimed1,,
 unclaimed2,,
 unclaimed3,,
 unclaimed4,,
 unclaimed5,,
 unclaimed6,,
 unclaimed7,,
-unclaimed8,,"
+unclaimed8,,
+"
 }
